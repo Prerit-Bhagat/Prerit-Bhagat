@@ -8,23 +8,6 @@
 - 🔭 Currently an ELC Summer Intern at Thapar Institute of Engineering and Technology, working on the "Student Well Stress Detection and Management System for Young Professionals" project.
 - 🌱 I have a strong interest in Machine Learning and Natural Language Processing.
 - 💼 Seeking opportunities to apply my skills in real-world projects.
-
-## Education
-
-- **Thapar Institute of Engineering and Technology**  
-  Bachelor of Engineering - Computer Engineering  
-  CGPA: 9.39  
-  2022 - Present
-
-- **Police DAV Public School, Jalandhar, Punjab**  
-  12th  
-  Percentage: 94.20%  
-  2021 - 2022
-
-- **Police DAV Public School, Jalandhar, Punjab**  
-  10th  
-  Percentage: 89.00%  
-  2019 - 2020
   
 ## Contact Me
 
