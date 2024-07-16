@@ -9,6 +9,23 @@
 - 🌱 I have a strong interest in Machine Learning and Natural Language Processing.
 - 💼 Seeking opportunities to apply my skills in real-world projects.
 
+## Education
+
+- **Thapar Institute of Engineering and Technology**  
+  Bachelor of Engineering - Computer Engineering  
+  CGPA: 9.39  
+  2022 - Present
+
+- **Police DAV Public School, Jalandhar, Punjab**  
+  12th  
+  Percentage: 94.20%  
+  2021 - 2022
+
+- **Police DAV Public School, Jalandhar, Punjab**  
+  10th  
+  Percentage: 89.00%  
+  2019 - 2020
+  
 ## Contact Me
 
 - 📧 **Email:** preritbhagat001@gmail.com
@@ -30,4 +47,16 @@
 - **Duration:** Jun 2024 - Present
 - **Organization:** Thapar Institute of Engineering and Technology
 - **Description:** Developed a system to detect and manage stress among young professionals using Machine Learning and NLP techniques.
+
+## Languages
+
+- English
+- Hindi
+- Punjabi
+
+## Interests
+
+- Web Development
+- Computer Hardware
+- Programming
 
