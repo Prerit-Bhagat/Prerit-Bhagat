@@ -1,7 +1,6 @@
-# Hi there, I'm Prerit Bhagat! 👋
+# Hi there, I'm Prerit Bhagat! 👋🏼
 
-I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems. Currently, I am an ELC Summer Intern focusing on developing innovative solutions for stress detection and management among young professionals.
-
+I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.
 ## About Me
 
 - 🔭 **Currently:** ELC Summer Intern at Thapar Institute of Engineering and Technology
@@ -52,3 +51,4 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 
 ---
 
+_This README.md is created with ❤️ by Prerit Bhagat._
