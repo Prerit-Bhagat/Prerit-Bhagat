@@ -41,14 +41,10 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ## Interests
 
-- Web Development
-- Computer Hardware
-- Programming
+- Web Development   - Computer Hardware   - Programming
 
 ## Let's Connect!
 
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
 ---
-
-_This README.md is created with ❤️ by Prerit Bhagat._
