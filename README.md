@@ -1,14 +1,14 @@
-# Prerit Bhagat
+# Hi there, I'm Prerit Bhagat! 👋
 
-👋 Hi, I’m Prerit Bhagat, a Computer Science major at Thapar Institute of Engineering and Technology.
+I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems. Currently, I am an ELC Summer Intern focusing on developing innovative solutions for stress detection and management among young professionals.
 
 ## About Me
 
-- 🎓 I am currently pursuing my Bachelor's in Computer Science.
-- 🔭 Currently an ELC Summer Intern at Thapar Institute of Engineering and Technology, working on the "Student Well Stress Detection and Management System for Young Professionals" project.
-- 🌱 I have a strong interest in Machine Learning and Natural Language Processing.
-- 💼 Seeking opportunities to apply my skills in real-world projects.
-  
+- 🔭 **Currently:** ELC Summer Intern at Thapar Institute of Engineering and Technology
+- 🎓 **Education:** Pursuing Bachelor's in Computer Science
+- 🌱 **Interests:** Machine Learning, Natural Language Processing
+- 💼 **Goals:** Seeking opportunities to apply my skills in meaningful projects
+
 ## Contact Me
 
 - 📧 **Email:** preritbhagat001@gmail.com
@@ -16,30 +16,39 @@
 
 ## Technical Skills
 
-- **Languages:** C, C++, Python, HTML, CSS, Flask, SQL
-- **Tech Stack:** Tableau, VirtualBox
-- **Core Knowledge:** Computer Networking, OOPS, Operating Systems, Data Structures, DBMS
-- **Sound Knowledge:** Machine Learning, Natural Language Processing
-- **Tools:** Git, VScode, Google Colab, Jupyter Notebook
-- **Problem Solving:** Solved 200+ questions on LeetCode
+### Languages and Frameworks
+- **Proficient:** C, C++, Python, HTML, CSS, Flask, SQL
+- **Familiar:** JavaScript, React
+
+### Tools and Technologies
+- **Data Science:** Google Colab, Jupyter Notebook, Tableau
+- **Version Control:** Git
+- **IDE:** VSCode
+
+### Core Knowledge Areas
+- Computer Networking, OOPS, Operating Systems, Data Structures, DBMS
 
 ## Projects
 
-### Student Well Stress Detection and Management System for Young Professionals
-
+### Student Well Stress Detection and Management System
 - **Duration:** Jun 2024 - Present
 - **Organization:** Thapar Institute of Engineering and Technology
-- **Description:** Developed a system to detect and manage stress among young professionals using Machine Learning and NLP techniques.
+- **Description:** Developed a system using Machine Learning and NLP techniques to detect and manage stress among young professionals.
 
-## Languages
+## Achievements
 
-- English
-- Hindi
-- Punjabi
+- **Problem Solving:** Solved 200+ questions on LeetCode
+- **Languages:** English, Hindi, Punjabi
 
 ## Interests
 
 - Web Development
 - Computer Hardware
 - Programming
+
+## Let's Connect!
+
+Feel free to reach out if you want to collaborate on projects or just chat about tech!
+
+---
 
