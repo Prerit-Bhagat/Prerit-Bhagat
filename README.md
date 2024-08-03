@@ -18,7 +18,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ### Languages and Frameworks
 - **Proficient:**
-  - <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50"/> Python
+  - <img src="https://spaces-cdn.clipsafari.com/zfdcbo72px0of6jlw2zxfpzys1l8" alt="Python Logo" width="50"/> Python
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/> HTML
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50"/> CSS
   - <img src="https://flask.palletsprojects.com/_images/flask-logo.png" alt="Flask Logo" width="50"/> Flask
