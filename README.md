@@ -43,7 +43,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 ## Projects
 
 ### Student Well Stress Detection and Management System
-- **Duration:** Jun 2024 - Present
+- **Duration:** Jun 2024 - Jul 2024
 - **Organization:** Thapar Institute of Engineering and Technology
 - **Description:** Developed a system using Machine Learning and NLP techniques to detect and manage stress among young professionals.
 
