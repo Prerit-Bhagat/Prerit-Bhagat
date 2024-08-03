@@ -18,8 +18,6 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ### Languages and Frameworks
 - **Proficient:**
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="50"/> C
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" alt="C++ Logo" width="50"/> C++
   - <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50"/> Python
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/> HTML
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50"/> CSS
@@ -34,10 +32,6 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
   - <img src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="Google Colab Logo" width="50"/> Google Colab
   - <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook Logo" width="50"/> Jupyter Notebook
   - <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo_2019.png" alt="Tableau Logo" width="50"/> Tableau
-- **Version Control:**
-  - <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="50"/> Git
-- **IDE:**
-  - <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50"/> VSCode
 
 ### Core Knowledge Areas
 - Computer Networking
