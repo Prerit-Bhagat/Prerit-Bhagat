@@ -18,26 +18,26 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ### Languages and Frameworks
 - **Proficient:**
-  - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) C
-  - ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg) C++
-  - ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png) Python
-  - ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg) HTML
-  - ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg) CSS
-  - ![Flask Logo](https://flask.palletsprojects.com/_images/flask-logo.png) Flask
-  - ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SQL_Logo.svg/800px-SQL_Logo.svg.png) SQL
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="50"/> C
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" alt="C++ Logo" width="50"/> C++
+  - <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo" width="50"/> Python
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50"/> HTML
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50"/> CSS
+  - <img src="https://flask.palletsprojects.com/_images/flask-logo.png" alt="Flask Logo" width="50"/> Flask
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SQL_Logo.svg/800px-SQL_Logo.svg.png" alt="SQL Logo" width="50"/> SQL
 - **Familiar:**
-  - ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
-  - ![React Logo](https://reactjs.org/logo-og.png) React
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50"/> JavaScript
+  - <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="50"/> React
 
 ### Tools and Technologies
 - **Data Science:**
-  - ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_32px.png) Google Colab
-  - ![Jupyter Notebook Logo](https://jupyter.org/assets/main-logo.svg) Jupyter Notebook
-  - ![Tableau Logo](https://www.tableau.com/sites/default/files/pages/tableau_logo_2019.png) Tableau
+  - <img src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="Google Colab Logo" width="50"/> Google Colab
+  - <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook Logo" width="50"/> Jupyter Notebook
+  - <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo_2019.png" alt="Tableau Logo" width="50"/> Tableau
 - **Version Control:**
-  - ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png) Git
+  - <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="50"/> Git
 - **IDE:**
-  - ![VSCode Logo](https://code.visualstudio.com/assets/images/code-stable.png) VSCode
+  - <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50"/> VSCode
 
 ### Core Knowledge Areas
 - Computer Networking
