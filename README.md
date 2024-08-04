@@ -4,7 +4,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ## About Me
 
-- 🔭 **Currently:** ELC Summer Intern at Thapar Institute of Engineering and Technology
+- 🔭 **Jun 2024 - Jul 2024:** ELC Summer Intern at Thapar Institute of Engineering and Technology
 - 🎓 **Education:** Pursuing Bachelor's in Computer Science
 - 🌱 **Interests:** Machine Learning, Natural Language Processing
 - 💼 **Goals:** Seeking opportunities to apply my skills in meaningful projects
