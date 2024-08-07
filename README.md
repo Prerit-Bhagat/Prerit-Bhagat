@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/C-4EA94B?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/CPP-4EA94B?style=for-the-badge&logo=CPP&logoColor=white" alt="CPP"/>
+  <img src="https://img.shields.io/badge/C++-4EA94B?style=for-the-badge&logo=C++&logoColor=white" alt="CPP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
