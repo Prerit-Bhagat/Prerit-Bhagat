@@ -33,19 +33,19 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 ## Technical Skills
 
 ### Languages and Frameworks
-  - <img src="https://spaces-cdn.clipsafari.com/zfdcbo72px0of6jlw2zxfpzys1l8" alt="Python Logo" width="30"/> Python
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30"/> HTML
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="30"/> CSS
-  - <img src="https://flask.palletsprojects.com/_images/flask-logo.png" alt="Flask Logo" width="30"/> Flask
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SQL_Logo.svg/800px-SQL_Logo.svg.png" alt="SQL Logo" width="30"/> SQL
-  - <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Logo" width="30"/> Django
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/> JavaScript
-  - <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="30"/> React
-
+  - ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+  - ![HTML Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
+  - ![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
+  - ![Flask Logo](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) Flask
+  - ![SQL Logo](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) SQL
+  - ![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Django
+  - ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+  - ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React
+    
 ### Tools and Technologies
 - **Data Science:**
-  - <img src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="Google Colab Logo" width="30"/> Google Colab
-  - <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook Logo" width="30"/> Jupyter Notebook
+  - ![Google Colab Logo](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) Google Colab
+  - ![Jupyter Notebook Logo](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) Jupyter Notebook
 
 ### Core Knowledge Areas
 - Computer Networking - OOPS - Operating Systems - Data Structures - DBMS
