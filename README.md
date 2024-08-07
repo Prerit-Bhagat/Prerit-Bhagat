@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/C-4EA94B?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-4EA94B?style=for-the-badge&logo=CPP&logoColor=white" alt="CPP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -32,13 +33,12 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 ## Technical Skills
 
 ### Languages and Frameworks
-- **Proficient:**
   - <img src="https://spaces-cdn.clipsafari.com/zfdcbo72px0of6jlw2zxfpzys1l8" alt="Python Logo" width="30"/> Python
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30"/> HTML
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="30"/> CSS
   - <img src="https://flask.palletsprojects.com/_images/flask-logo.png" alt="Flask Logo" width="30"/> Flask
   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SQL_Logo.svg/800px-SQL_Logo.svg.png" alt="SQL Logo" width="30"/> SQL
-- **Familiar:**
+  - <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Logo" width="30"/> Django
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30"/> JavaScript
   - <img src="https://reactjs.org/logo-og.png" alt="React Logo" width="30"/> React
 
@@ -46,14 +46,9 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 - **Data Science:**
   - <img src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="Google Colab Logo" width="30"/> Google Colab
   - <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook Logo" width="30"/> Jupyter Notebook
-  - <img src="https://www.tableau.com/sites/default/files/pages/tableau_logo_2019.png" alt="Tableau Logo" width="30"/> Tableau
 
 ### Core Knowledge Areas
-- Computer Networking
-- OOPS
-- Operating Systems
-- Data Structures
-- DBMS
+- Computer Networking - OOPS - Operating Systems - Data Structures - DBMS
 
 ## Projects
 
@@ -73,10 +68,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ## Interests
 
-- Web Development
-- Computer Hardware
-- Programming
+- Web Development - Computer Hardware - Programming
 
 ## Let's Connect!
-
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
