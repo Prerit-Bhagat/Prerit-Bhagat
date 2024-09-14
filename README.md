@@ -61,9 +61,8 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 - **Technologies Used:** Django, Django Channels, WebSockets, React
 - **Description:** Developed a chat website using Django, Channels, WebSockets, and React to enable real-time communication. The system supports multiple concurrent users and provides a dynamic, responsive user interface.
 
-## Achievements
+## Languages
 
-- **Problem Solving:** Solved 200+ questions on LeetCode
 - **Languages:** English, Hindi, Punjabi
 
 ## Interests
