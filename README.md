@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 </p>
 
+## Data Structures:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/prerit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prerit_bhagat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prerit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prerit_bhagat" height="30" width="40" /></a>
+</p>
+
 ## GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerit-bhagat&show_icons=true&locale=en&layout=compact" alt="prerit-bhagat" /></p>
 
@@ -28,7 +35,6 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 
 ## Contact Me
 - 📧 **Email:** [preritbhagat001@gmail.com](mailto:preritbhagat001@gmail.com)
-- 📞 **Phone:** +91 8198894400
 
 ## Technical Skills
 
@@ -50,23 +56,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 ### Core Knowledge Areas
 - Computer Networking - OOPS - Operating Systems - Data Structures - DBMS
 
-## Projects
-
-### Student Well Stress Detection and Management System
-- **Duration:** Jun 2024 - Jul 2024
-- **Organization:** Thapar Institute of Engineering and Technology
-- **Description:** Developed a system using Machine Learning and NLP techniques to detect and manage stress among young professionals.
-
-### Real-Time Chat Website
-- **Technologies Used:** Django, Django Channels, WebSockets, React
-- **Description:** Developed a chat website using Django, Channels, WebSockets, and React to enable real-time communication. The system supports multiple concurrent users and provides a dynamic, responsive user interface.
-
-## Languages
-
-- **Languages:** English, Hindi, Punjabi
-
 ## Interests
-
 - Web Development - Computer Hardware - Programming
 
 ## Let's Connect!
