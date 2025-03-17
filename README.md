@@ -1,4 +1,5 @@
-# Hi there 👋
+<h1 align="center">Hi , I'm Prerit Bhagat</h1>
+<h3 align="center">I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.</h3>
 
 ## Tech Stack:
 <p align="left">
