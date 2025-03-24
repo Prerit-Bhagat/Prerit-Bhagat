@@ -15,13 +15,13 @@
 
 ## Data Structures:
 <p align="left">
-<a href="https://codeforces.com/profile/prerit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prerit_bhagat" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/prerit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prerit_bhagat" height="30" width="40" /></a>
 </p>
 
 ## GitHub Stats:
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerit-bhagat&show_icons=true&locale=en&layout=compact" alt="prerit-bhagat" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerit-bhagat&" alt="prerit-bhagat" /></p>
 
 ## About Me
