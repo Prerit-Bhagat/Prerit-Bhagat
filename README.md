@@ -4,7 +4,6 @@
 ## Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/C-4EA94B?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-4EA94B?style=for-the-badge&logo=C++&logoColor=white" alt="CPP"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -21,7 +20,7 @@
 </p>
 
 ## GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerit-bhagat&show_icons=true&locale=en&layout=compact" alt="prerit-bhagat" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerit-bhagat&" alt="prerit-bhagat" /></p>
 
