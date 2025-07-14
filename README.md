@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Prerit Bhagat</h1>
-<h3 align="center">I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.</h3>
+<!-- <h3 align="center">I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.</h3> -->
 
 ## Tech Stack:
 <p align="left">
@@ -19,17 +19,16 @@
 <a href="https://www.leetcode.com/prerit_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prerit_bhagat" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats:
+<!-- ## GitHub Stats: -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerit-bhagat&show_icons=true&locale=en&layout=compact" alt="prerit-bhagat" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerit-bhagat&" alt="prerit-bhagat" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prerit-bhagat&show_icons=true&locale=en&layout=compact" alt="prerit-bhagat" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerit-bhagat&" alt="prerit-bhagat" /></p> -->
 
 ## About Me
 I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.
-
-- 🔭 **Jun 2024 - Jul 2024:** ELC Summer Intern at Thapar Institute of Engineering and Technology
+<!-- - 🔭 **Jun 2024 - Jul 2024:** ELC Summer Intern at Thapar Institute of Engineering and Technology -->
 - 🎓 **Education:** Pursuing Bachelor's in Computer Science
-- 🌱 **Interests:** Machine Learning, Natural Language Processing
+- 🌱 **Interests:** Machine Learning, Development
 - 💼 **Goals:** Seeking opportunities to apply my skills in meaningful projects
 
 ## Contact Me
@@ -38,6 +37,7 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
 ## Technical Skills
 
 ### Languages and Frameworks
+<p align="left">
   - ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
   - ![HTML Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
   - ![CSS Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
@@ -46,17 +46,11 @@ I'm a Computer Science major at Thapar Institute of Engineering and Technology p
   - ![Django Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Django
   - ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
   - ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React
-    
-### Tools and Technologies
-- **Data Science:**
-  - ![Google Colab Logo](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) Google Colab
-  - ![Jupyter Notebook Logo](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) Jupyter Notebook
+</p>    
 
 ### Core Knowledge Areas
 - Computer Networking - OOPS - Operating Systems - Data Structures - DBMS
 
-## Interests
-- Web Development - Computer Hardware - Programming
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
