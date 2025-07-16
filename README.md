@@ -25,7 +25,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prerit-bhagat&" alt="prerit-bhagat" /></p> -->
 
 ## About Me
-I'm a Computer Science major at Thapar Institute of Engineering and Technology passionate about leveraging technology to solve real-world problems.
+I'm a Computer Science major student passionate about leveraging technology to solve real-world problems.
 <!-- - 🔭 **Jun 2024 - Jul 2024:** ELC Summer Intern at Thapar Institute of Engineering and Technology -->
 - 🎓 **Education:** Pursuing Bachelor's in Computer Science
 - 🌱 **Interests:** Machine Learning, Development
