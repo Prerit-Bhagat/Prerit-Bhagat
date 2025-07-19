@@ -34,7 +34,7 @@ I'm a Computer Science major student passionate about leveraging technology to s
 ## Contact Me
 - 📧 **Email:** [preritbhagat001@gmail.com](mailto:preritbhagat001@gmail.com)
 - 🔗 **LinkedIn:** [Prerit Bhagat](https://www.linkedin.com/in/prerit-bhagat-681b30253/)
-- 
+
 <!--## Technical Skills
 
  ### Languages and Frameworks
